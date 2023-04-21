@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/typechamp/static/css/main.6f10beb8.css",
+    "main.js": "/typechamp/static/js/main.b180d134.js",
+    "static/js/787.3c702461.chunk.js": "/typechamp/static/js/787.3c702461.chunk.js",
+    "static/media/logo.png": "/typechamp/static/media/logo.904ac8fd0f7b25e86967.png",
+    "static/media/Kid-Flash-PNG-Free-Download.png": "/typechamp/static/media/Kid-Flash-PNG-Free-Download.d86705b3465a0fa9c8d5.png",
+    "index.html": "/typechamp/index.html",
+    "main.6f10beb8.css.map": "/typechamp/static/css/main.6f10beb8.css.map",
+    "main.b180d134.js.map": "/typechamp/static/js/main.b180d134.js.map",
+    "787.3c702461.chunk.js.map": "/typechamp/static/js/787.3c702461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f10beb8.css",
+    "static/js/main.b180d134.js"
+  ]
+}
